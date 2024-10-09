@@ -5,3 +5,17 @@ footer {
     background-color: green;
     color: white;
 }
+body {
+    background-image: url("http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#centerText {
+    color: white;
+    height: 500px;
+    font-size: 30px;
+}
+#bottomMenu {
+    background-color: green;
+    color: white;
+}
